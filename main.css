@@ -1,0 +1,49 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	line-height: 1.5;
+}
+
+footer {
+	color: grey;
+	font-size: 80%;
+	font-style: italic;
+	text-align: center;
+}
+
+.page {
+	float: right;
+	background-color: #eeeeee;
+	margin: 24px;
+	padding: 4px;
+	border: solid 1px silver;
+	font-size: 80%;
+}
+
+.container {
+	max-width: 38rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.avatar {
+	 vertical-align: middle;
+	 border-radius: 50%;
+	 float:right;
+	 margin-top: 40px;
+}
+
+a {
+	 color: navy;
+	 text-decoration: none;
+}
+
+a:visited {
+	 /* color: navy; */
+}
+
+a:hover {
+	text-decoration: underline;
+}
