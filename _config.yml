@@ -1,13 +1,29 @@
 title: Liang Zeng
 email: objczl@example.com
-description: >-
-    I'm an iOS/macOS developer.
 baseurl: ""
 url: ""
 twitter_username: objczl
 github_username:  objczl
 
 markdown: kramdown
+
+defaults:
+    -
+     scope:
+         path: ""
+     values:
+         author: Liang Zeng
+         description: Developer
+         lang: en
+         base-url: "/"
+    -
+     scope:
+         path: zh-cn
+     values:
+         author: 曾亮
+         description: 开发者
+         lang: zh-cn
+         base-url: "/zh-cn/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
