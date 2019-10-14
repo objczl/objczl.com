@@ -4,15 +4,34 @@ layout: default
 
 ## Hello!
 
-我是曾亮，主要从事iPhone, iPad客户端开发，从iPhone OS 3 开始开发到现在已经有9年的开发经验, 具备7年以上的的Objective-C 开发经验，最近两年专注于swift开发, 熟练使用Cocoa Touch开发框架，基于iOS SDK构建应用，具备独立完成iOS客户端应用开发能力，在AppStore曾上线过多款应用。
+I’m Liang Zeng. I’m an iOS developer based in Chongqing, China. Since 2010,
+with the platform since "iPhone OS 4", and with nine years total of professional
+programming experience. I've written Objective-C for six years, and for the
+last two years, I've been heavily focused on Swift. I’m good at Cocoa Touch to
+build iPhone and iPad applications. I can build the app independently. I have
+released multiple apps to the App Store.
 
-在工作之余我通过阅读，学习使自己知识得到更新，持续追求提高自己的编程技能，在我的业余项目中尝试新的技术。我采取`Increment Design`设计思路，开发简洁可执行代码. 我适用`Rule of Three`规则在编程中重构提炼增加所开发代码的复用性，我使用github(git-flow strategy)持续开发新特性，管理代码。我使用CocoaPods管理依, 使用TDD方式编写稳定的代码。
+I invest a tonne of time keeping myself up-to-date, and seek constantly to
+improve the way I write code, trialing new techniques in my own side-projects.
 
-熟悉macOS, Linux, RESTFull API,
-具备Java, JavaScript基础,
-了解Java Spring, ReactJS, React Native
+*Keywords: Swift 5, SwiftUI, Protocol Oriented Programming, Generics, Combine,
+ReactiveCocoa, MVVM + Coordinator pattern, Core Data, Fastlane, Continuous
+Integration, Unit Testing (TDD).*
 
-项目类型: 新闻，杂志，相机，定位，iBeacon, 实用工具，商城，金融，企业.
-关键字: Swift 5, SwfitUI, Protocol Oriented Programming, Functional Reactive
-Programming, ReactiveCocoa, MVVM+Coordinator Pattern, CoreData,
-Continuous Integration, Unit Testing
+I use [increment design](https://www.jamesshore.com/Agile-Book/incremental_design.html)
+to write code that works and `rule of three` to refactor and improve the design. I
+use git (git-flow strategy) continuously to prepare new features, before using
+pull-requests to merge them in. I use CocoaPods to manage dependencies. I unit
+test and employ TDD (when appropriate), to write reliable, well-structured code.
+
+I believe **solve your own problem, everything else will follow**. As everything
+that I have ever worked on, I was trying to solve my problem.  If it doesn’t
+work for me, I don’t want to sell it I decided to launch it when it’s gonna look
+like something that I would use every day. That was the goal.
+
+*Skills: macOS, Linux, RESTFull API, java, JavaScript, Spring Framework
+, React.js, React Native*
+
+*Projects: News, Magazine, Location, iBeacon, Utilities, Business, Finance,
+Enterprise*
+
