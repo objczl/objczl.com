@@ -35,3 +35,5 @@ like something that I would use every day. That was the goal.
 *Projects: News, Magazine, Location, iBeacon, Utilities, Business, Finance,
 Enterprise*
 
+To get in touch, you can send me an <a href="mailto:objczl@gmail.com">email</a>.
+
