@@ -35,5 +35,7 @@ like something that I would use every day. That was the goal.
 *Projects: News, Magazine, Location, iBeacon, Utilities, Business, Finance,
 Enterprise*
 
-To get in touch, you can send me an <a href="mailto:objczl@gmail.com">email</a>.
+### Want to get in touch?
+
+You can reach me via email <a href="mailto:objczl@gmail.com">objczl@gmail.com</a>, [Twitter](https://twitter.com/objczl).
 
