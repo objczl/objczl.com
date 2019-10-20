@@ -5,7 +5,7 @@ layout: default
 ## Hello!
 
 I’m Liang Zeng. I’m an iOS developer based in Chongqing, China. Since 2010,
-with the platform since "iPhone OS 4", and with nine years total of professional
+with the platform "iPhone OS 4", and with nine years total of professional
 programming experience. I've written Objective-C for six years, and for the
 last two years, I've been heavily focused on Swift. I’m good at Cocoa Touch to
 build iPhone and iPad applications. I can build the app independently. I have
