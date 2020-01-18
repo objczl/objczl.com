@@ -37,5 +37,5 @@ Enterprise*
 
 ### Want to get in touch?
 
-You can reach me via email <a href="mailto:objczl@gmail.com">objczl@gmail.com</a>, [Twitter](https://twitter.com/objczl).
+You can reach me via <a href="mailto:objczl@gmail.com">email</a>, [Twitter](https://twitter.com/objczl).
 
