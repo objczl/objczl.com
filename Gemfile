@@ -1,9 +1,11 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8.6"
+gem "jekyll", "4.0.0"
+gem "minima", "2.5.1"
+gem "jekyll-archives", "2.2.1"
 
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo", "1.2.6"
   gem "tzinfo-data"
 end
 
