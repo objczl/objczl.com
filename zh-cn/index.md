@@ -10,11 +10,11 @@ layout: about
 
 熟悉macOS, Linux, RESTFull API, 具备Java, JavaScript基础, 了解Java Spring, ReactJS, React Native.
 
-项目类型: 新闻，杂志，相机，定位，iBeacon, 实用工具，商城，金融，企业.
-
 关键字: Swift 5, SwfitUI, Protocol Oriented Programming, Functional Reactive
 Programming, ReactiveCocoa, MVVM+Coordinator Pattern, CoreData,
 Continuous Integration, Unit Testing
+
+项目类型: 新闻，杂志，相机，定位，iBeacon, 实用工具，商城，金融，企业.
 
 ### 联系方式
 

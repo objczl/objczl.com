@@ -14,10 +14,6 @@ released multiple apps to the App Store.
 I invest a tonne of time keeping myself up-to-date, and seek constantly to
 improve the way I write code, trialing new techniques in my own side-projects.
 
-*Keywords: Swift 5, SwiftUI, Protocol Oriented Programming, Generics, Combine,
-ReactiveCocoa, MVVM + Coordinator pattern, Core Data, Fastlane, Continuous
-Integration, Unit Testing (TDD).*
-
 I use [increment design](https://www.jamesshore.com/Agile-Book/incremental_design.html)
 to write code that works and `rule of three` to refactor and improve the design. I
 use git (git-flow strategy) continuously to prepare new features, before using
@@ -29,11 +25,12 @@ that I have ever worked on, I was trying to solve my problem.  If it doesn’t
 work for me, I don’t want to sell it I decided to launch it when it’s gonna look
 like something that I would use every day. That was the goal.
 
-*Keywords: iOS, macOS, Linux, RESTFull API, Java, JavaScript, Spring Framework
-, React.js, React Native*
+*Keywords: Swift 5, SwiftUI, Protocol Oriented Programming, Generics, Combine,
+ReactiveCocoa, MVVM + Coordinator pattern, Core Data, Unit Testing (TDD). Java,
+JavaScript, Spring Framework , React.js, React Native*
 
-*Project Categories: News, Magazine, Location, iBeacon, Utilities, Business, Finance,
-Enterprise*
+*Project Categories: News, Magazine, Location, iBeacon, Utilities, Business,
+Finance, Enterprise*
 
 ### Want to get in touch?
 
