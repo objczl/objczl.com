@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 ---
 
 ## Hello!
@@ -29,13 +29,13 @@ that I have ever worked on, I was trying to solve my problem.  If it doesn’t
 work for me, I don’t want to sell it I decided to launch it when it’s gonna look
 like something that I would use every day. That was the goal.
 
-*Skills: macOS, Linux, RESTFull API, java, JavaScript, Spring Framework
+*Keywords: iOS, macOS, Linux, RESTFull API, Java, JavaScript, Spring Framework
 , React.js, React Native*
 
-*Projects: News, Magazine, Location, iBeacon, Utilities, Business, Finance,
+*Project Categories: News, Magazine, Location, iBeacon, Utilities, Business, Finance,
 Enterprise*
 
 ### Want to get in touch?
 
-You can reach me via <a href="mailto:objczl@gmail.com">email</a>, [Twitter](https://twitter.com/objczl).
+You can reach me via <a href="mailto:objczl@gmail.com">email</a>.
 

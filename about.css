@@ -2,6 +2,7 @@
 	box-sizing: border-box;
 }
 
+
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 17px;
@@ -40,14 +41,11 @@ footer {
 }
 
 a {
-	 color: navy;
+	 color: '#000';
 	 text-decoration: none;
 }
 
-a:visited {
-	 /* color: navy; */
-}
-
-a:hover {
+a.link-item {
+	padding-right: 10px;
 	text-decoration: underline;
 }

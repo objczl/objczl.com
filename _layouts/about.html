@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>{{ page.title }}</title>
+		<link rel="shortcut icon" type="image/png" href="{{site.url}}/favicon.png">
+		<link rel="stylesheet" href="{{site.url}}/about.css" type="text/css" media="all">
+	</head>
+	<body>
+		<div class="container">
+			<img
+			    class="avatar"
+			    src="https://www.gravatar.com/avatar/0a2a1ec89d4b7183e652af5975522c91?s=160"
+			    alt="ZL"
+			    width=80
+			    height=80
+			>
+			<h1 style="padding-top:30px">{{page.author}}</h1>
+			<div class="links">
+				<a href="/blog" class="link-item">Blog</a>
+				<a href="https://github.com/objczl" class="link-item">GitHub</a>
+				<a href="https://twitter.com/objczl" class="link-item">Twitter</a>
+			</div>
+			<hr>
+
+			{{ content }}
+
+			<footer> "I do it for me. I like it. I am good at it." </footer>
+
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66557165-1" />
+			<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+
+				gtag('config', 'UA-66557165-1');
+			</script>
+		</div>
+	</body>
+</html>

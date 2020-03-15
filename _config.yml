@@ -1,11 +1,39 @@
-title: Liang Zeng
-email: objczl@example.com
-baseurl: ""
-url: ""
+title: Liang Zeng's Blog
+author: Liang Zeng
+email: objczl@gmail.com
 twitter_username: objczl
 github_username:  objczl
-
+navigation:
+  - title: Home
+    url: "/"
+  - title: Archives
+    url: "/blog/archives"
+  - title: Subscribe
+    url: "/feed.xml"
+baseurl: ""
+url: ""
+permalink: /blog/:title:output_ext
+theme: minima
+show_excerpts: true # https://v.gd/SP9qw5
 markdown: kramdown
+google_analytics: UA-66557165-1
+jekyll-archives:
+  enabled:
+      - year
+      - month
+      - blog
+      - tags
+      - categories
+  layout: archive
+  permalinks:
+    year: '/blog/archives/:year/'
+    month: '/blog/archives/:year/:month/'
+    day: '/blog/archives/:year/:month/:day/'
+    category: '/blog/archives/category/:name/'
+    tag: '/blog/archives/tag/:name/'
+
+plugins:
+  - jekyll-archives
 
 defaults:
     -
@@ -13,7 +41,6 @@ defaults:
          path: ""
      values:
          author: Liang Zeng
-         description: Developer
          lang: en
          base-url: "/"
     -
@@ -21,18 +48,15 @@ defaults:
          path: zh-cn
      values:
          author: 曾亮
-         description: 开发者
          lang: zh-cn
          base-url: "/zh-cn/"
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Makefile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
