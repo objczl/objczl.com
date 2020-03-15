@@ -16,6 +16,7 @@ permalink: /blog/:title:output_ext
 theme: minima
 show_excerpts: true # https://v.gd/SP9qw5
 markdown: kramdown
+google_analytics: UA-66557165-1
 jekyll-archives:
   enabled:
       - year
