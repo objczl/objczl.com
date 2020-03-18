@@ -5,6 +5,9 @@ date: 2019-08-06
 categories: []
 ---
 
+> An Activity Log (also known as an Activity Diary or a Job Activity Log) is a
+> written record of how you spend your time.
+
 ## An Activity Elements:
 
 * Date/time
