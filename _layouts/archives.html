@@ -12,7 +12,11 @@ layout: default
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
-    {% assign posts = site.posts %}
+    {%- if page.title == "Archvies" -%}
+      {% assign posts = site.posts %}
+    {%- else -%}
+      {% assign posts = page.posts %}
+    {%- endif -%}
   {% endif %}
 
   {%- if posts.size > 0 -%}
