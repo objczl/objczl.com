@@ -60,3 +60,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - vendor/ruby/
+  - YYYY-MM-DD-post-title.markdown
