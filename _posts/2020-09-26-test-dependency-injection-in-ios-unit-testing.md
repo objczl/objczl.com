@@ -5,8 +5,8 @@ date: 2020-09-26
 categories: [tdd]
 ---
 
-> Software development compose with small components to a big one , like lego. So
-> when a component need a another component the another one is the depended one.
+> Software development compose of small components to a big one, like lego. So
+> when a component needs another component another one is the dependent one.
 > We call the component has a dependency.
 
 ## What is Dependency
@@ -25,16 +25,16 @@ Program X uses Library Y.
 X depends on Y. Y is X's dependency.
 ```
 
-System under test (SUT) depends-on components (DOC) which maybe is network, or
+The system under test (SUT) depends-on components (DOC) which maybe is a network, or
 database.
 
 ## How to unit test sut which has depends-on components
 
-When System Under Test (SUT) Depends-On Components (DOC) which maybe is network,
+When System Under Test (SUT) Depends-On Components (DOC) which maybe is a network,
 or database hard to test affect the test speed. We need to be able to replace
 DOC with a test double whenever we want to make it easy to test our code.
 
-Test double for three types of unit test:
+Test double for three types of the unit test:
 
 * Return value (fake)
 * State value (stub)
