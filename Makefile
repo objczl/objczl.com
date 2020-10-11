@@ -1,7 +1,7 @@
-clean:
-	@rm -rf _site
 install:
 	@bundle exec jekyll serve --watch --draft
+clean:
+	@rm -rf _site
 release:
 	@JEKYLL_ENV=production jekyll build
 update:
